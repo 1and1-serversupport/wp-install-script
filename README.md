@@ -17,7 +17,7 @@ database and gives the user the rights to use the database.
 #### 3. run the script:
     sudo ./wp-install.sh
 
-#### 4. remove the temporary file:
+#### 4. remove the temporary files:
     rm .dbpass .dbname .dbuser .dbrootpass
 
 #### 5. (Optional) remove the script file:
